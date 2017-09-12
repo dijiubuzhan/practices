@@ -1,3 +1,3 @@
 # practices
 Everyday practises and study
-学习与联系
+学习与练习
